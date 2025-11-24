@@ -70,5 +70,4 @@ Você vai receber um token no seguinte formato:
 E então, adicionar este mesmo token ao header das próximas requisições:
 
 ```
-Authorization: Bearer <ACCESS_TOKEN>
 ```
